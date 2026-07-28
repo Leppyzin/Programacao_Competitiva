@@ -12,7 +12,7 @@
 
   **Lista de parâmetros:** é um conjunto de informações (valores ou variáveis) que são fornecidas para que uma função, algoritmo ou programa. O parâmetro é simplesmente uma variável que recebe um valor quando uma função é chamada. 
 
-  ### Por que usammos parâmetros? 
+  ### Por que usamos parâmetros? 
 
    Sem parâmetro precisaríamos criar uma função para cada caso. Quando usamos/chamamos uma função, deixamos de ter algo "Inviável" para algo possível, sendo assim, a mesma função serve para infinitos casos.
 
