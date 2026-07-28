@@ -10,6 +10,19 @@
 
   O **nome_função** é como aquele trecho de código será conhecido dentro do programa. Para definir esse nome, valem basicamente as mesmas regras para se definir uma variável.
 
+  **Lista de parâmetros:** é um conjunto de informações (valores ou variáveis) que são fornecidas para que uma função, algoritmo ou programa. O parâmetro é simplesmente uma variável que recebe um valor quando uma função é chamada. 
+
+  ### Por que usammos parâmetros? 
+
+   Sem parâmetro precisaríamos criar uma função para cada caso. Quando usamos/chamamos uma função, deixamos de ter algo "Inviável" para algo possível, sendo assim, a mesma função serve para infinitos casos.
+
+ ### Parâmetros X Argumentos
+
+   Essa é uma confusão muito comum.
+
+   ![img_definicao](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/def_fun%C3%A7%C3%A3o.png)
+ 
+
   ## local de delcaração de uma função
 
   Com relação ao local de declaração de uma função, ela deve ser definida ou declarada antes de ser utilizada, ou seja, antes da cláusula **main(),** como mostra o exemplo a seguir:
@@ -83,4 +96,10 @@ int Square (int a){
   **No exemplo a seguir é possível ter uma boa representação de como uma chamada de função ocorre.**
 
  ![chamada da função](https://github.com/Leppyzin/competitive_programming/blob/main/Arquivos_img/func3.png)
- 
+
+ ## RESUMINDO
+
+ - **Função:** um bloco de código que realiza uma tarefa.
+ - **Parâmetros:** Variáveis declaradas nas que dizem quais informações ela espera receber.
+ - **Lista de Parâmetros:** O conjunto de todos os parâmetros, escrito entre parênteses da função
+ - **Argumentos:** Os valores reais quando a função é chamada
