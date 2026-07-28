@@ -82,7 +82,6 @@ int Square (int a){
 
 ```
   **int Square (int a);**
-  **int Square (int);**
 ```
 
 ## Funcionamento de uma função
