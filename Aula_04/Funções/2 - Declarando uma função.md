@@ -81,7 +81,8 @@ int Square (int a){
   A inclusão do nome de cada parâmetro no protótipo de uma função é tarefa opcional. Podemos declarar o seu protótipo apenas com os tipos dos parâmetros que serão passados para a função. Os nomes dos parâmetros são importantes apenas na implementação da função. Assim, ambos os protótipos a seguir são válidos para uma mesma função:
 
 ```
-  **int Square (int a);**
+  int Square (int a);
+  int Square (int);
 ```
 
 ## Funcionamento de uma função
