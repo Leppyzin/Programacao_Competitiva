@@ -10,7 +10,7 @@
 
   O **nome_função** é como aquele trecho de código será conhecido dentro do programa. Para definir esse nome, valem basicamente as mesmas regras para se definir uma variável.
 
-  **Lista de parâmetros:** é um conjunto de informações (valores ou variáveis) que são fornecidas para que uma função, algoritmo ou programa. O parâmetro é simplesmente uma variável que recebe um valor quando uma função é chamada. 
+  **Lista de parâmetros:** é um conjunto de informações (valores ou variáveis) que são fornecidas para que seja uma função, algoritmo ou programa. O parâmetro é simplesmente uma variável que recebe um valor quando uma função é chamada. 
 
   ### Por que usamos parâmetros? 
 
